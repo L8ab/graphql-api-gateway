@@ -1,0 +1,13 @@
+{
+  "name": "graphql-api-gateway",
+  "version": "1.0.0",
+  "description": "GraphQL API Gateway by L8ab Systems",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.8.1"
+  }
+}

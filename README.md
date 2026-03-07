@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/github/actions/workflow/status/L8ab/graphql-api-gateway/ci.yml?branch=main) ![License](https://img.shields.io/github/license/L8ab/graphql-api-gateway)
+
 # GraphQL API Gateway
 
 A GraphQL API gateway built with Apollo Server.
@@ -45,3 +47,7 @@ Visit \`http://localhost:4000\` for GraphQL Playground.
 ---
 
 **POWERED BY L8AB SYSTEMS**
+
+
+## Structure
+This repository is configured with enterprise standards, CI pipelines, and a structured codebase.
